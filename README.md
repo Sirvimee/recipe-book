@@ -2,3 +2,4 @@
 
 ## Recipes
 - Pannkoogid
+- Teistsugune retsept
